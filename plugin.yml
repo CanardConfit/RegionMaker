@@ -1,0 +1,4 @@
+name: RegionMaker
+version: 1.0.0
+author: CanardConfit
+main: ch.canardconfit.region.RegionMaker
