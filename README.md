@@ -87,3 +87,6 @@ public void onRegionCreate(RegionCreateEvent event) {
 	//run your code here
 }
 ```
+**Another Information**
+--------------------------------
+JavaDoc : https://canardconfit.github.io/RegionMaker/
