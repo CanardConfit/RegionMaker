@@ -1,4 +1,4 @@
-<img src="http://javadocs.canardconfit.ch/RegionMaker/images/RegionMaker-logo.png" width="140" style="float:left; margin:0px 10px 0px 0px;"/><h1>RegionMaker</h1>
+<img src="https://canardconfit.github.io/RegionMaker/images/RegionMaker-logo.png" width="140" style="float:left; margin:0px 10px 0px 0px;"/><h1>RegionMaker</h1>
 A spigot library that allows you to create, delete, retrieve regions and events related to the regions. It was created to make it easier for developers to create and manage regions on a minecraft spigot server.
 
 **Installation on a server**
